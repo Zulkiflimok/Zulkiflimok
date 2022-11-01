@@ -13,31 +13,57 @@ You can click the Preview link to take a look at your changes.
 Intalan TERMUX
 
 termux-setup-storage (inzinkan)
+
 termux-change-repo (intal repo dulu)
+
 apt-get update
-apt-get upgrade
+
+apt-get upgrade -y
+
 apt-get install nano
+
 sudo apt-get install unzip
+
 apt-get install screen
+
 apt install python3-pip
+
 pip3 install rsa
+
 pip3 install requests
+
 pip3 install --upgrade setuptools
+
 pip3 install wheel
+
 pip3 install thrift
+
 pip3 install gtts
+
 pip3 install goslate 
+
 pip3 install wikipedia 
+
 pip3 install BeautifulSoup
+
 pip3 install BeautifulSoup4
+
 pip3 install html5
+
 pip3 install tweepy
+
 pip3 install pyowm
+
 pip3 install googletrans
+
 pip3 install humanfriendly
+
 pip3 install pytz
+
 pip3 install youtube_dl
+
 pip3 install pafy
+
 pip3 install youtube-dl --upgrade
 
 
