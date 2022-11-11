@@ -54,3 +54,6 @@ pip install youtube_dl
  
 python3 sb.py
 
+http://line.me/ti/p/~Qilua.1
+
+http://line.me/ti/p/~linux.1
