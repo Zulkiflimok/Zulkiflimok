@@ -1,5 +1,7 @@
 intalaan termux
 
+BELAJAR BOT LINE 10K
+
 termux-setup-strage
 
 termux-change-repo
